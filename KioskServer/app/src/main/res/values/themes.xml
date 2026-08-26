@@ -1,0 +1,6 @@
+<resources>
+    <!-- Altere o parent para Theme.AppCompat.Light.NoActionBar -->
+    <style name="Theme.Kioskserver" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Suas configurações de cores e estilo aqui -->
+    </style>
+</resources>
