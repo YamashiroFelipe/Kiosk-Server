@@ -32,7 +32,7 @@ O projeto é dividido em dois módulos que trabalham em perfeita sintonia dentro
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/YamashiroFelipe/Kiosk-Server.git](https://github.com/YamashiroFelipe/Kiosk-Server.git)
+   git clone [https://github.com/YamashiroFelipe/Kiosk-Server.git]
 
    Abra a pasta server no Android Studio e compile o aplicativo no dispositivo Android que atuará como servidor.
 
